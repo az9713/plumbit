@@ -1,0 +1,7 @@
+{
+  "name": "Plumbit Voice AI Demo",
+  "description": "A plumbing business demo featuring two distinct Gemini Live AI agents for support and dispatch.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
